@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_font_size">24.sp</dimen>
+    <dimen name="main_font_size">16.sp</dimen>
+    <dimen name="standard_padding">16.dp</dimen>
+    <dimen name="small_padding">8.dp</dimen>
+    <dimen name="large_padding">24.dp</dimen>
+    <dimen name="image_size">500.dp</dimen>
+    <dimen name="shadow">10.dp</dimen>
+    <dimen name="outline">16.dp</dimen>
+</resources>

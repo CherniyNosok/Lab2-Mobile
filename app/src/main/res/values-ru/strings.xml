@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2-Mobile</string>
+    <string name="title_pic1">Над городом</string>
+    <string name="title_pic2">Сцена с офицером</string>
+    <string name="title_pic3">Супрематическая композиция</string>
+    <string name="title_pic4">Крестьянки с ведрами</string>
+    <string name="author_pic1">Марк Шагал</string>
+    <string name="author_pic2">Василий Кандинский</string>
+    <string name="author_pic3">Казимир Малевич</string>
+    <string name="author_pic4">Казимир Малевич</string>
+    <string name="prev_button_title">Предыдущий</string>
+    <string name="next_button_title">Следующий</string>
+</resources>
