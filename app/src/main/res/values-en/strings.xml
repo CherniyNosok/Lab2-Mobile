@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Lab2-Mobile</string>
     <string name="title_pic1">Over the town</string>
@@ -8,10 +9,6 @@
     <string name="author_pic2">Wassily Kandinsky</string>
     <string name="author_pic3">Kazimir Malevich</string>
     <string name="author_pic4">Kazimir Malevich</string>
-    <string name="year_pic1" translatable="false">1917</string>
-    <string name="year_pic2" translatable="false">1917</string>
-    <string name="year_pic3" translatable="false">1916</string>
-    <string name="year_pic4" translatable="false">1913</string>
     <string name="prev_button_title">Previous</string>
     <string name="next_button_title">Next</string>
 </resources>
